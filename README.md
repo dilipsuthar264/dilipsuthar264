@@ -3,7 +3,7 @@
 </div>
 
 ## 💫 About Me:
-👋 HEY! I am Dilip Suthar <br>📱 Android Developer | Tech Explorer 🚀<br>👨‍💻 I spend my time crafting cool apps 📱 and convincing my code that it’s not a bug 🐞—it’s a feature 😆.<br><br>🛠️ Mindset: Keep it simple ⚡, keep it scalable 🔄<br>🎯 Mission: Making apps that people actually love using ❤️
+👋 HEY! I am Dilip Suthar <br>📱 Android Developer | Tech Explorer 🚀<br>👨‍💻 I spend my time crafting cool apps 📱 and convincing my code that it’s not a bug 🐞—it’s a feature 😆.<br><br>🛠️ Mindset: Keep it simple, keep it scalable 🔄<br>🎯 Mission: Making apps that people actually love using ❤️
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/memeusix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilipsuthar264) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dilipsuthar2643@gmail.com) 
@@ -22,8 +22,5 @@
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-[![](https://visitcount.itsvg.in/api?id=dilipsuthar264&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
